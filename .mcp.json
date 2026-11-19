@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "eu-ted-tenders-scraper": {
+      "url": "https://mcp.apify.com?tools=fetch-actor-details,magnova/eu-ted-tenders-scraper"
+    }
+  }
+}
